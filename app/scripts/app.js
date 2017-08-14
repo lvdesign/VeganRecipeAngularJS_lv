@@ -1,5 +1,3 @@
-
-
 'use strict';
 angular.module('originrecipApp', ['ui.router','ngResource','ngDialog','ngMap','ngSanitize'])
    
